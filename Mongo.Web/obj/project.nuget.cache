@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gE/sFTQMCpnCft1yQGaZvrwrujI4LMVIzOGp09edIcrIkAwR+UFKOkoqVsQUTVrAyszyxl5H3VDvLQ98dYWEIA==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\AspnetMicroservices\\MicroServices\\Mongo.Web\\Mongo.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean2\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
